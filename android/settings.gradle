@@ -1,0 +1,3 @@
+rootProject.name = 'viroreact_app_4606'
+
+include ':app'

@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT viroreact_app_4606.wsgi:application
